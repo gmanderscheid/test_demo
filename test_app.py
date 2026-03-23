@@ -1,7 +1,7 @@
 from app import square
 
 def test_square_positive():
-    assert square(3) == 8
+    assert square(3) == 9
 
 def test_square_zero():
     assert square(0) == 0
