@@ -1,2 +1,3 @@
 def square(x: int) -> int:
-    return x * x
+    print("hello")
+    return x * x 
